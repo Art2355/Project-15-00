@@ -20,3 +20,12 @@
 .title {
     transition: 300ms;
 }
+
+.main {
+    background: red;
+    color: wheat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
